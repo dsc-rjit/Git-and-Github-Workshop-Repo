@@ -1,1 +1,1 @@
-# Git-and-Github-Workshop-Repo
+# Git and Github Workshop Repo
